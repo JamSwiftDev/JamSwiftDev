@@ -61,9 +61,13 @@ Aquí tienes mis perfiles personales para que podamos conectar, compartir ideas 
 
 ## 💼 Portafolio Web  
 
-Aquí puedes ver mis proyectos y trabajos:  
+Aquí puedes ver mis proyectos, experiencia y reseñas de clientes:  
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Visita%20mi%20Portafolio-blue?style=for-the-badge)](https://jamswiftdev.netlify.app/)
+<p align="center">
+  <a href="https://jamswiftdev.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20jamswiftdev.com-7C3AED?style=for-the-badge&logoColor=white" alt="Portafolio jamswiftdev.com" />
+  </a>
+</p>
 
 ---
 
@@ -75,4 +79,5 @@ Aquí puedes ver mis proyectos y trabajos:
 
 <p align="center">
   <em>"Innovar, crear y aprender es la clave para avanzar en tecnología."</em>
+</p>
 </p>
